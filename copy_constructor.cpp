@@ -1,5 +1,5 @@
 #include <bits/stdc++.h>
-
+//not a copy constructor visit copy kle notes by mistake naam copy constructor naam ho gaya
 using namespace std;
 
 class person{
